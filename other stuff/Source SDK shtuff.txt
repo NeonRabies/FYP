@@ -1,0 +1,16 @@
+files to look into:
+	physics.cpp
+	View.cpp
+	Convar.cpp //seems like something to do with passing data between classes
+	ViewRender.cpp // massive 
+	GameMovement.ccp //start gravity function *******this has been modified, now when i jump a different gravity direction is applied :D
+	
+	
+	
+	
+	 Oh yeah, I do!
+Nevik: It's very slightly hacky but works perfect
+Nevik: Check up how to set convars in Hammer (one tutorial) and how to make and lookup convars in the engine (separate tutorial)
+Nevik: Not exactly, their like console commands
+Nevik: They can be made inside the engine
+Nevik: I forget where they're made but you'll find out

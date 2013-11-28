@@ -1,0 +1,33 @@
+
+
+
+materialPath: c:\program files (x86)\steam\steamapps\common\portal 2\portal2\materials
+Loading C:\Program Files (x86)\Steam\steamapps\common\portal 2\sdk_content\maps\instances\pitkas\useful_elements\dropper\dropper_clean.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_brush (0.00 0.00 -268.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (8651 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 31 texinfos to 21
+Reduced 8 texdatas to 8 (202 bytes to 202)
+Writing C:\Program Files (x86)\Steam\steamapps\common\portal 2\sdk_content\maps\instances\pitkas\useful_elements\dropper\dropper_clean.bsp
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\instances\pitkas\useful_elements\dropper\dropper_clean.bsp
+reading c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\instances\pitkas\useful_elements\dropper\dropper_clean.prt
+LoadPortals: couldn't read c:\program files (x86)\steam\steamapps\common\portal 2\sdk_content\maps\instances\pitkas\useful_elements\dropper\dropper_clean.prt

@@ -14,3 +14,12 @@ Nevik: Check up how to set convars in Hammer (one tutorial) and how to make and 
 Nevik: Not exactly, their like console commands
 Nevik: They can be made inside the engine
 Nevik: I forget where they're made but you'll find out
+
+hammer textures:
+matsys.regressiontest 
+sprites.obsolete
+
+(Back to transparent mesh)
+velocity[2]-= normal
+velocity[1]-= left brick wall
+velocity[0]-= towards floor texture wall
